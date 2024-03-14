@@ -1,0 +1,279 @@
+
+symbol_00.png
+size: 2001,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cherry/branchBase
+  rotate: false
+  xy: 1689, 475
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+cherry/branch_01
+  rotate: true
+  xy: 847, 26
+  size: 84, 115
+  orig: 84, 115
+  offset: 0, 0
+  index: -1
+cherry/branch_02
+  rotate: true
+  xy: 1876, 140
+  size: 18, 123
+  orig: 18, 123
+  offset: 0, 0
+  index: -1
+cherry/leaf_01
+  rotate: false
+  xy: 964, 26
+  size: 170, 83
+  orig: 170, 83
+  offset: 0, 0
+  index: -1
+cherry/leaf_02
+  rotate: false
+  xy: 1136, 29
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+cherry/shedow
+  rotate: false
+  xy: 2, 724
+  size: 345, 315
+  orig: 345, 315
+  offset: 0, 0
+  index: -1
+cherry/sherryLeft
+  rotate: true
+  xy: 495, 2
+  size: 174, 177
+  orig: 174, 177
+  offset: 0, 0
+  index: -1
+cherry/sherryRight
+  rotate: false
+  xy: 1713, 171
+  size: 163, 164
+  orig: 163, 164
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_01
+  rotate: false
+  xy: 674, 2
+  size: 171, 107
+  orig: 171, 107
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_03
+  rotate: true
+  xy: 1878, 160
+  size: 175, 115
+  orig: 175, 115
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_05
+  rotate: false
+  xy: 258, 44
+  size: 199, 124
+  orig: 199, 124
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_07
+  rotate: false
+  xy: 768, 341
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_09
+  rotate: false
+  xy: 1003, 363
+  size: 252, 149
+  orig: 252, 149
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_11
+  rotate: true
+  xy: 1257, 266
+  size: 258, 170
+  orig: 258, 170
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_13
+  rotate: false
+  xy: 1257, 73
+  size: 259, 191
+  orig: 259, 191
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_15
+  rotate: true
+  xy: 1518, 30
+  size: 261, 193
+  orig: 261, 193
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_17
+  rotate: true
+  xy: 1250, 526
+  size: 262, 195
+  orig: 262, 195
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_19
+  rotate: true
+  xy: 495, 178
+  size: 263, 242
+  orig: 263, 242
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_21
+  rotate: false
+  xy: 1735, 789
+  size: 264, 250
+  orig: 264, 250
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_23
+  rotate: false
+  xy: 739, 112
+  size: 263, 227
+  orig: 263, 227
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_25
+  rotate: true
+  xy: 258, 170
+  size: 268, 235
+  orig: 268, 235
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_27
+  rotate: true
+  xy: 768, 491
+  size: 273, 233
+  orig: 273, 233
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_29
+  rotate: true
+  xy: 279, 443
+  size: 279, 241
+  orig: 279, 241
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_31
+  rotate: false
+  xy: 887, 789
+  size: 285, 250
+  orig: 285, 250
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_33
+  rotate: false
+  xy: 1459, 780
+  size: 274, 259
+  orig: 274, 259
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_35
+  rotate: false
+  xy: 1447, 512
+  size: 268, 266
+  orig: 268, 266
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_37
+  rotate: false
+  xy: 619, 766
+  size: 266, 273
+  orig: 266, 273
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_39
+  rotate: false
+  xy: 349, 759
+  size: 268, 280
+  orig: 268, 280
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_41
+  rotate: false
+  xy: 2, 440
+  size: 275, 282
+  orig: 275, 282
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_43
+  rotate: false
+  xy: 1174, 790
+  size: 283, 249
+  orig: 283, 249
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_45
+  rotate: true
+  xy: 2, 148
+  size: 290, 254
+  orig: 290, 254
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_47
+  rotate: true
+  xy: 1003, 514
+  size: 273, 245
+  orig: 273, 245
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_49
+  rotate: true
+  xy: 522, 478
+  size: 279, 244
+  orig: 279, 244
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_51
+  rotate: false
+  xy: 1004, 111
+  size: 251, 250
+  orig: 251, 250
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_53
+  rotate: false
+  xy: 1429, 293
+  size: 258, 217
+  orig: 258, 217
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_55
+  rotate: false
+  xy: 1735, 566
+  size: 264, 221
+  orig: 264, 221
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_57
+  rotate: false
+  xy: 1717, 337
+  size: 270, 227
+  orig: 270, 227
+  offset: 0, 0
+  index: -1
+fireAnim_01/fire_59
+  rotate: false
+  xy: 2, 16
+  size: 253, 130
+  orig: 253, 130
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 1713, 22
+  size: 161, 147
+  orig: 161, 147
+  offset: 0, 0
+  index: -1
